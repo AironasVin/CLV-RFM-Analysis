@@ -64,9 +64,9 @@ Prepare customer segmentation and RFM analysis, provide insights and recommendat
 
 ## Access to the project
 
-SQL code used to extract and process data: [M3S3 CLV code](https://github.com/AironasVin/CLV-RFM-Analysis/blob/main/CLV.sql)
+SQL code used to extract and process data: [CLV code](https://github.com/AironasVin/CLV-RFM-Analysis/blob/main/CLV.sql)
 
-MS Excel working file: [M3S3 CLV](https://github.com/AironasVin/CLV-RFM-Analysis/blob/main/CLV.xlsx)
+MS Excel working file: [CLV](https://github.com/AironasVin/CLV-RFM-Analysis/blob/main/CLV.xlsx)
 
 ## Main task
 
